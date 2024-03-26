@@ -1,4 +1,4 @@
-# yuugou.github.io
+# README
 
 ## Hi there 👋 I'm yuugou
 
